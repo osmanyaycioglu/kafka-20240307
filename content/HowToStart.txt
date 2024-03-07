@@ -1,0 +1,19 @@
+C:\kafka yı aç
+C:\kafka\bin\windows olmalı
+
+System Env.
+Path e C:\kafka\bin\windows ekle
+KAFKA_HOME yarat ve value olarak C:\kafka
+
+Git den
+0-kafka-server-start.cmd
+1-kafka-server-start.cmd
+2-kafka-server-start.cmd
+C:\kafka altına at
+
+server-0.properties
+server-1.properties
+server-2.properties
+C:\kafka\config altına at
+
+C:\tmp folder ı yarat
